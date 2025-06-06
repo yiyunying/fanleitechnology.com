@@ -1,11 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://www.fanleitechnology.com/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//fanlei.buy-cnmachine.com/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
 		<loc>https://www.fanleitechnology.com/post-sitemap.xml</loc>
-		<lastmod>2025-04-09T03:24:04+00:00</lastmod>
+		<lastmod>2025-06-06T07:32:27+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://www.fanleitechnology.com/page-sitemap.xml</loc>
 		<lastmod>2025-03-04T01:08:53+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://www.fanleitechnology.com/product-sitemap.xml</loc>
+		<lastmod>2024-09-27T09:14:39+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://www.fanleitechnology.com/product_cat-sitemap.xml</loc>
+		<lastmod>2024-09-27T09:14:39+00:00</lastmod>
 	</sitemap>
 </sitemapindex>
